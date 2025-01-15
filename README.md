@@ -41,4 +41,4 @@ Ensinar e reforçar conceitos matemáticos de forma divertida, por meio de um jo
 
 1. **Clone este repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-operacoes.git
+   git clone https://github.com/victorialms/jogo-operacoes.git
