@@ -1,48 +1,44 @@
-# Jogo de Operações Matemáticas
+<h1 align="center">🎮 Jogo de Operações Matemáticas 🎲</h1>
 
-Projeto desenvolvido para a Atividade Integradora II da graduação em Sistemas de Informação na Unilasalle RJ
+<p align="center">
+  Projeto desenvolvido para a Atividade Integradora II do curso de Sistemas de Informação na Unilasalle RJ.
+</p>
 
-<h1>Sobre o projeto</h1>
+---
 
-Este é um jogo educativo de operações matemáticas criado para apresentar aos alunos da escola Centro Moderno de Ensino, como parte de uma experiência de ensino e aprendizado durante nossa palestra sobre tecnologia e desenvolvimento de jogos.
+## 📝 Sobre o Projeto
 
-O jogo foi projetado para ser divertido, acessível e uma ferramenta de aprendizado para crianças, incentivando o raciocínio lógico e a prática de operações matemáticas. Além disso, foi utilizado em uma dinâmica interativa: quem fizesse mais pontos levava um brinde para casa!
+Este é um jogo educativo de operações matemáticas, criado para ser apresentado aos alunos da escola **Centro Moderno de Ensino** durante uma palestra sobre tecnologia e desenvolvimento de jogos.
 
-<h1>Objetivo</h1>
+O objetivo principal é oferecer uma experiência interativa e divertida que ajude crianças a praticar e reforçar conceitos matemáticos básicos, ao mesmo tempo em que se divertem com uma competição amigável. Quem fizesse mais pontos na dinâmica levava um brinde especial para casa! 🎁
+
+---
+
+## 🎯 Objetivo
 
 Ensinar e reforçar conceitos matemáticos de forma divertida, por meio de um jogo que desafia as habilidades de cálculo das crianças em um ambiente descontraído e competitivo.
 
-<h1>Recursos do Jogo</h1>
+---
 
-Operações matemáticas básicas: adição, subtração, multiplicação e divisão.
+## ✨ Recursos do Jogo
 
-Pontuação: sistema de pontos para incentivar a competição amigável entre os jogadores.
+- **Operações Matemáticas Básicas**: Adição, subtração, multiplicação e divisão.  
+- **Pontuação**: Sistema de pontos para incentivar a competição amigável entre os jogadores.  
+- **Interface Simples**: Design intuitivo e focado na experiência das crianças.  
+- **Feedback Instantâneo**: Respostas corretas e incorretas são indicadas imediatamente.
 
-Interface Simples: design intuitivo, focado na experiência das crianças.
+---
 
-Feedback instantâneo: respostas corretas e incorretas são indicadas imediatamente.
+## 🛠️ Tecnologias Utilizadas
 
-<h1>Tecnologias Utilizadas</h1>
+- **HTML5**: Estruturação do jogo.  
+- **CSS3**: Estilização simples e amigável.  
+- **JavaScript**: Lógica do jogo e interatividade.
 
-HTML5: para estruturação do jogo.
+---
 
-CSS3: para estilização simples e amigável.
+## 🚀 Como Executar o Projeto
 
-JavaScript: para a lógica do jogo e interatividade.
-
-<br><h1>Como Executar o Projeto</h1>
-
-Clone este repositório:
-
-*git clone*: https://github.com/seu-usuario/jogo-operacoes.git
-
-Abra o arquivo index.html em qualquer navegador moderno.
-
-Divirta-se e desafie-se com as operações matemáticas!
-
-<h1>Contribuições</h1>
-
-Sugestões e melhorias são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-
-
+1. **Clone este repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/jogo-operacoes.git
