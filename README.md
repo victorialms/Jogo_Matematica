@@ -1,6 +1,6 @@
 # Jogo de Operações Matemáticas
 
-Projeto desenvolvido para a Atividade Integradora II da graduação em Sistemas de Informação
+Projeto desenvolvido para a Atividade Integradora II da graduação em Sistemas de Informação na Unilasalle RJ
 
 <h1>Sobre o projeto</h1>
 
@@ -30,11 +30,11 @@ CSS3: para estilização simples e amigável.
 
 JavaScript: para a lógica do jogo e interatividade.
 
-<h1>Como Executar o Projeto</h1>
+<br><h1>Como Executar o Projeto</h1>
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/jogo-operacoes.git
+*git clone*: https://github.com/seu-usuario/jogo-operacoes.git
 
 Abra o arquivo index.html em qualquer navegador moderno.
 
